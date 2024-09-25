@@ -232,5 +232,3 @@ gcloud compute forwarding-rules list
 ---
 
 By following these steps, you will set up an HTTP load balancer with a managed instance group on Google Cloud. 🚀
-```
-
