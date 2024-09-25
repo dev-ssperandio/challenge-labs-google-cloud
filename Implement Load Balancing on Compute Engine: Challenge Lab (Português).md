@@ -246,7 +246,7 @@ gcloud compute forwarding-rules list
 
 ----------
 
-Seguindo esses passos, você configurará um balanceador de carga HTTP com um grupo de instâncias gerenciadas no Google Cloud. Se precisar de mais ajuda, estou aqui para ajudar! 🚀
+Seguindo esses passos, você configurará um balanceador de carga HTTP com um grupo de instâncias gerenciadas no Google Cloud. 🚀
 
 ```
 
