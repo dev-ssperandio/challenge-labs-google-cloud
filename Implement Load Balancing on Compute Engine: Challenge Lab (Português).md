@@ -250,22 +250,3 @@ Seguindo esses passos, você configurará um balanceador de carga HTTP com um gr
 
 ```
 
-### English
-
-```markdown
-# Implement Load Balancing on Compute Engine: Challenge Lab
-
-This step-by-step guide will help you set up load balancing on Google Cloud using `gcloud` commands and console alternatives.
-
-## Environment Variables
-
-Set the environment variables to simplify command execution:
-
-```bash
-export INSTANCE=<instance-name>
-export FIREWALL=<firewall-rule-name>
-export ZONE=<your-zone>
-export REGION=<your-region>
-
-```
-
