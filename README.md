@@ -1,7 +1,7 @@
-## ☁️ Lab Challenge: Google Cloud Computing Foundations Certificate
+## ☁️ Challenge Labs: Google Cloud Computing Foundations Certificate
 
 ### 📜 Description:
-This repository aims to clarify doubts during the development process of the Lab Challenges for the Google Cloud Computing Foundations Certificate.
+This repository aims to clarify doubts during the development process of the Challenge Labs for the Google Cloud Computing Foundations Certificate.
 
 ### 📫 Contact me:
 <div>
